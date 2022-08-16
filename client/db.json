@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go over week 8 material",
+      "date": "March 4th at 1 pm"
+    },
+    {
+      "id": 2,
+      "text": "Do quiz 8",
+      "date": "March 4th at 6 pm"
+    },
+    {
+      "id": 3,
+      "text": "Work on assignment 2",
+      "date": "March 5th at 8 am"
+    },
+    {
+      "text": "test",
+      "date": "23",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Neda",
+      "task": 1
+    },
+    {
+      "id": 2,
+      "name": "Adam",
+      "task": 3
+    }
+  ]
+}
